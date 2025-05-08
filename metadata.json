@@ -1,0 +1,15 @@
+{
+  "name":        "MySpace Coin",
+  "symbol":      "MYSP",
+  "description": "Fast, low‑fee Solana token by MySpace driving user engagement and platform growth. Investors earn NFT Top Friends badges, join exclusive playlist contests, and vote in governance to shape the platform.",
+  "external_url":"https://myspace.com",
+  "image":       "logo.png",
+  "attributes":  [],
+  "properties": {
+    "files": [
+      { "uri": "logo.png", "type": "image/png" }
+    ],
+    "category": "image"
+  }
+}
+
